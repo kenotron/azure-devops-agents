@@ -1,0 +1,9 @@
+{
+  "client_id": "7d95a3d1-fbab-46fc-893f-5480f06bcfa1",
+  "client_secret": "a9fbefac-6265-45b3-b9d9-130006660c7d",
+  "subscription_id": "bac044cf-49e1-4843-8dda-1ce9662606c8",
+  "tenant_id": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+  "resource_group": "devops-agents-rg",
+  "storage_account": "devopsagents",
+  "location": "westus2"
+}
